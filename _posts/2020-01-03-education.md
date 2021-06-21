@@ -8,10 +8,12 @@ icon-bg: black
 
 ## Education
 
-**MA in Political Communication**
+**MA Coursework**
 University of Cape Town \| Cape Town, South Africa \| 2020 - 2021 (*anticipated*)
 
-- Areas of research: COVID-19 and the media, the role of the media in global development, crisis communication, and health communication in marketing campaigns
+- Completed courses in globalization and development, crisis communications, political communication, and media methodologies 
+- Created a marketing campaign to promote COVID-19 preventative measures amongst students living on-campus and pitched the idea to the university marketing department
+- Wrote Python scripts to calculate quantitative data for a research project
 - Co-authored a research paper with 3 professors for the *Journal of African Media Studies* 
 
 **BA in Communication Studies and Spanish**
