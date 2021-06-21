@@ -1,7 +1,7 @@
 ---
 title: "certifications"
-bg: white
-color: black
+bg: black
+color: white
 fa-icon: laptop
 icon-bg: black
 ---
