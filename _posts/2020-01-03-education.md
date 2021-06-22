@@ -9,7 +9,7 @@ icon-bg: black
 ## Education
 
 **MA Coursework**
-University of Cape Town \| Cape Town, South Africa \| 2020 - 2021 (*anticipated*)
+University of Cape Town \| Cape Town, South Africa \| 2020 - 2021 
 
 - Completed courses in globalization and development, crisis communications, political communication, and media methodologies 
 - Created a marketing campaign to promote COVID-19 preventative measures amongst students living on-campus and pitched the idea to the university marketing department
