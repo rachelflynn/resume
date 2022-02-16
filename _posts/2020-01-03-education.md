@@ -8,6 +8,9 @@ icon-bg: black
 
 ## Education
 
+**Learn API Technical Writing: JSON and XML for Writers Certification**
+Peter Gruenbaum through Udemy.com \| Remote \| In Progress
+
 **Technical Writing: How to Write Software Documentation Certification**
 JPDocu through Udemy.com \| Remote \| In Progress
 
