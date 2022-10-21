@@ -8,17 +8,17 @@ icon-bg: black
 
 ## Certifications
 
-**Technical Writing**
-Moscow Institute of Physics and Technology \| In Progress
-
-**Python for Absolute Beginners**
+**Fullstack Web Development Certification**
 Udemy \| In Progress
 
-**Learn Python 2**
-Codecademy \| In Progress
+**Technical Writing: How to Write Software Documentation Certification**
+Udemy \| Remote \| In Progress
 
-**Learn Hindi in 3 Weeks**
-Udemy \| In Progress
+**Learn API Technical Writing: JSON and XML for Writers Certification**
+Udemy \| Remote \| October 2022
+
+**Agile Fundamentals: Including Scrum and Kanban Certification**
+Udemy \| Remote \| January 2022
 
 **Learn HTML**
-Codecademy \| Completed in 2018
+Codecademy \| January 2019
