@@ -8,21 +8,6 @@ icon-bg: black
 
 ## Education
 
-**Learn API Technical Writing: JSON and XML for Writers Certification**
-Peter Gruenbaum through Udemy.com \| Remote \| In Progress
-
-**Technical Writing: How to Write Software Documentation Certification**
-JPDocu through Udemy.com \| Remote \| In Progress
-
-- Covered functional vs. task-oriented documentation 
-- Exposed to DITA and XML
-
-**Agile Fundamentals: Including Scrum and Kanban Certification**
-The BA Guide through Udemy.com \| Remote \| January 2022
-
-- Discussed the principles and basics of an Agile enironment, including: Scrum, Kanban, and Scrumban 
-- Learned how to use Trello and Jira 
-
 **MA Coursework**
 University of Cape Town \| Cape Town, South Africa \| 2020 - 2021 
 
