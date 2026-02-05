@@ -8,17 +8,14 @@ icon-bg: black
 
 ## Certifications
 
+**Prompt Engineering for Generative AI**
+
 **Fullstack Web Development Certification**
-Udemy \| In Progress
 
 **Technical Writing: How to Write Software Documentation Certification**
-Udemy \| Remote \| In Progress
 
 **Learn API Technical Writing: JSON and XML for Writers Certification**
-Udemy \| Remote \| October 2022
 
 **Agile Fundamentals: Including Scrum and Kanban Certification**
-Udemy \| Remote \| January 2022
 
 **Learn HTML**
-Codecademy \| January 2019
